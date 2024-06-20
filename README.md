@@ -24,5 +24,5 @@ Me interesa la estructura de las cosas, saber cómo funcionan y aplico todo lo q
 
 ### 🛠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,django,css,bootstrap,html,js,php,mysql,sqlite,postgres,git,github,docker,vscode,bash,linux,kali,windows,markdown&perline=12)
+[![My Skills](https://skillicons.dev/icons?i=python,django,css,bootstrap,html,js,php,mysql,sqlite,postgres,git,github,docker,vscode,bash,linux,kali,windows,markdown&perline=12)](https://skillicons.dev/)
 
