@@ -15,7 +15,7 @@ Me interesa la estructura de las cosas, saber cómo funcionan y aplico todo lo q
 
 <div align="left">
         <ul>
-            <li>🌱 <strong>Actualmente estoy estudiando</strong>: Ingeniería en Ciberseguridad en la Unab y Diplomado en Gobernabilidad en la Usach.</li>
+            <li>🌱 <strong>Actualmente estoy estudiando</strong>: Ingeniería en Ciberseguridad en la Unab.</li>
             <li>🎯 <strong>Me estoy enfocando en</strong>: <a href="https://gaboaraya.pythonanywhere.com/">mi blog/repositorio de métodos y mecanismos.</a></li>
             <li>🤔 <b>Estoy abierto a oportunidades laborales</b>: <a href="https://gaboaraya.pythonanywhere.com/contacto/">visita mi perfil profesional</a>.</li>
             <li>📫 <strong>Me puedes encontrar en</strong>: <a href="https://www.linkedin.com/in/gaboaraya/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn Gabo Araya" /></a></li>
